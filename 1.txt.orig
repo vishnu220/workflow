@@ -1,4 +1,7 @@
 MASTER BRANCH CHANGE
 develop branch code added 
+<<<<<<< HEAD
 f1 added
+=======
 new changed 
+>>>>>>> feature2
